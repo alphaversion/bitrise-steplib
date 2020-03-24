@@ -7,10 +7,8 @@
 # - Bitrise docs: http://devcenter.bitrise.io/
 # - Bitrise CLI guides: http://devcenter.bitrise.io/bitrise-cli/
 
-title: |-
-  Github Issue Info
-summary: |
-  Get Github Issue Info
+title: Github Issue Info
+summary: Get Github Issue Info
 description: |
   Get Github Issue Info
 website: https://github.com/alphaversion/bitrise-step-github-issue-info
